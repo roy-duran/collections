@@ -1,2 +1,1 @@
-# collections
- Java Collections Demonstration
+# Java Assignment - Collections
